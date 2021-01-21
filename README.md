@@ -29,6 +29,30 @@ I am passionate about blogging and am continually expanding my knowledge and ski
 
 
 
+
+<a href="https://github.com/MFuchs1989/MFuchs1989">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFuchs1989&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/MFuchs1989/MFuchs1989">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MFuchs1989&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MFuchs1989)](https://github.com/MFuchs1989/github-readme-stats)
 
 

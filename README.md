@@ -42,10 +42,13 @@ Here are the associated repositories for it:
 [![ReadMe Card R](https://github-readme-stats.vercel.app/api/pin/?username=MFuchs1989&repo=Bdown)](https://github.com/MFuchs1989/github-readme-stats)
 
 
+## 📬 Get in touch
 
-
-
-
+- [LinkedIn](https://www.linkedin.com/in/fuchs-michael-andi/)
+- [Xing](https://www.xing.com/profile/Michael_Fuchs426/cv)
+- [Twitter](https://twitter.com/Stat_Michael)
+- [Python Blog](https://michael-fuchs-python.netlify.app/)
+- [R Blog](https://michael-fuchs.netlify.app/)
 
 
 

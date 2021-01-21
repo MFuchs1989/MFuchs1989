@@ -1,12 +1,21 @@
 
 
 <p align="center">
-  <img src="https://github.com/MFuchs1989/MFuchs1989/blob/main/images/main_michael_fuchs.png=250x250?raw=true" alt="main_michael_fuchs" width="250" height="250"/>
+  <img src="https://github.com/MFuchs1989/MFuchs1989/blob/main/images/main_michael_fuchs.png?raw=true" alt="main_michael_fuchs"/>
 </p>
 
 
 
-### Hi there 👋
+Hey 👋, 
+
+I am Data Scientist and Machine Learning Specialist from Germany 🇩🇪
+
+
+
+
+
+
+
 
 <p align="center">
   <img src="https://github.com/MFuchs1989/MFuchs1989/blob/main/images/main_michael_fuchs.png?raw=true" alt="main_michael_fuchs"/>

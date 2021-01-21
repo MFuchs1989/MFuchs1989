@@ -14,20 +14,7 @@ I am passionate about blogging and am continually expanding my knowledge and ski
 
 
 
-
 ## &#x1f4c8; My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MFuchs1989&show_icons=true" alt="MFuchs1989"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFuchs1989" alt="MFuchs1989"/>
-</p>
-
-
-
 
 
 <a href="https://github.com/MFuchs1989/MFuchs1989">
@@ -40,6 +27,19 @@ I am passionate about blogging and am continually expanding my knowledge and ski
 
 
 
+## 🌳 My Digital Garden
+
+I've been blogging since 2018 on my homepages about all sorts of topics related to Machine Learning, Data Analytics, Data Science and much more.
+You are welcome to visit them:
+
++ [Python Blog](https://michael-fuchs-python.netlify.app/)
++ [R Blog](https://michael-fuchs.netlify.app/)
+
+Here are the associated repositories for it:
+
+[![ReadMe Card Python](https://github-readme-stats.vercel.app/api/pin/?username=MFuchs1989&repo=Bdown-Python)](https://github.com/MFuchs1989/github-readme-stats)
+
+[![ReadMe Card R](https://github-readme-stats.vercel.app/api/pin/?username=MFuchs1989&repo=Bdown)](https://github.com/MFuchs1989/github-readme-stats)
 
 
 
@@ -51,36 +51,4 @@ I am passionate about blogging and am continually expanding my knowledge and ski
 
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MFuchs1989)](https://github.com/MFuchs1989/github-readme-stats)
-
-
-
-
-
-
-[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=MFuchs1989&show_icons=true)](https://github.com/MFuchs1989/github-readme-stats)
-
-
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MFuchs1989&repo=Bdown-Python)](https://github.com/MFuchs1989/github-readme-stats)
-
-
-
-
-
-
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MFuchs1989&show_icons=true" alt="MFuchs1989" />  
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MFuchs1989&show_icons=true" alt="MFuchs1989" />  
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MFuchs1989&show_icons=true" alt="MFuchs1989"/>
-</p>
 

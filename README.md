@@ -36,5 +36,7 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MFuchs1989&show_icons=true" alt="MFuchs1989" />  
 
 
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MFuchs1989&show_icons=true" alt="MFuchs1989"/>
+</p>
 

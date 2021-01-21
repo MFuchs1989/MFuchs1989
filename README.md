@@ -21,6 +21,21 @@ Here are some ideas to get you started:
 
 
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MFuchs1989&repo=github-readme-stats)](https://github.com/MFuchs1989/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MFuchs1989)](https://github.com/MFuchs1989/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MFuchs1989)](https://github.com/MFuchs1989/github-readme-stats)
+
+
+[![Top Langs2](https://github-readme-stats.vercel.app/api/top-langs/?username=MFuchs1989&layout=compact)](https://github.com/MFuchs1989/github-readme-stats)
+
+
+
 
 
 

@@ -37,9 +37,11 @@ You are welcome to visit them:
 
 Here are the associated repositories for it:
 
-[![ReadMe Card Python](https://github-readme-stats.vercel.app/api/pin/?username=MFuchs1989&repo=Bdown-Python)](https://github.com/MFuchs1989/github-readme-stats)
+[![ReadMe Card Python](https://github-readme-stats.vercel.app/api/pin/?username=MFuchs1989&repo=Bdown-Python)](https://github.com/MFuchs1989/Bdown-Python)
 
-[![ReadMe Card R](https://github-readme-stats.vercel.app/api/pin/?username=MFuchs1989&repo=Bdown)](https://github.com/MFuchs1989/github-readme-stats)
+[![ReadMe Card R](https://github-readme-stats.vercel.app/api/pin/?username=MFuchs1989&repo=Bdown)](https://github.com/MFuchs1989/Bdown)
+
+
 
 
 ## 📬 Get in touch

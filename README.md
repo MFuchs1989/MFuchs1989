@@ -16,6 +16,27 @@ I am passionate about blogging and am continually expanding my knowledge and ski
 
 ## &#x1f4c8; My GitHub Stats
 
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/MFuchs1989/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+ <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+</p>
+  <p align="center">
+    <a href="https://github.com/MFuchs1989/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/MFuchs1989/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://codecov.io/gh/MFuchs1989/github-readme-stats">
+      <img src="https://codecov.io/gh/MFuchs1989/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/MFuchs1989/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/MFuchs1989/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/MFuchs1989/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/MFuchs1989/github-readme-stats?color=0088ff" />
+    </a>
+  </p>
+
+
 
 <a href="https://github.com/MFuchs1989/MFuchs1989">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFuchs1989&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />

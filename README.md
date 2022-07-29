@@ -34,11 +34,14 @@ I've been blogging since 2018 on my homepages about all sorts of topics related 
 You are welcome to visit them:
 
 + [Python Blog](https://michael-fuchs-python.netlify.app/)
++ [SQL Blog](https://michael-fuchs-sql.netlify.app/)
 + [R Blog](https://michael-fuchs.netlify.app/)
 
 Here are the associated repositories for it:
 
 [![ReadMe Card Python](https://github-readme-stats.vercel.app/api/pin/?username=MFuchs1989&repo=Bdown-Python)](https://github.com/MFuchs1989/Bdown-Python)
+
+[![ReadMe Card SQL](https://github-readme-stats.vercel.app/api/pin/?username=MFuchs1989&repo=Bdown-SQL)](https://github.com/MFuchs1989/Bdown-SQL)
 
 [![ReadMe Card R](https://github-readme-stats.vercel.app/api/pin/?username=MFuchs1989&repo=Bdown)](https://github.com/MFuchs1989/Bdown)
 
@@ -51,6 +54,7 @@ Here are the associated repositories for it:
 - [Xing](https://www.xing.com/profile/Michael_Fuchs426/cv)
 - [Twitter](https://twitter.com/Stat_Michael)
 - [Python Blog](https://michael-fuchs-python.netlify.app/)
+- [SQL Blog](https://michael-fuchs-sql.netlify.app/)
 - [R Blog](https://michael-fuchs.netlify.app/)
 
 
